@@ -1,0 +1,9 @@
+@extends('frontend.layouts.master')
+
+
+@section('content')
+    <div class="container">
+        <h1 class="text-center mb-5">Tentang Kami</h1>
+        <p><strong>Apotek Keluarga</strong> adalah Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis sit eaque perferendis assumenda nulla dolorum dolor ab. Explicabo aut at quisquam, officiis nostrum unde dignissimos facilis deserunt dolore. Voluptates autem omnis vel quam perferendis, nostrum architecto quas debitis earum neque, beatae eius non facere tempora, consequuntur inventore cupiditate quasi. Perferendis ab amet quos? Non commodi pariatur, officia hic quas itaque optio soluta unde, accusantium minus et praesentium amet beatae ipsum. Consectetur incidunt beatae quae, doloremque eveniet adipisci fugiat expedita placeat dolorem distinctio a, illo facilis, commodi vitae sapiente fuga quasi. Neque consequuntur ea, libero omnis necessitatibus sunt, recusandae pariatur vitae dicta esse dolores quos hic. Eum, inventore libero ratione dolor sint quisquam, blanditiis reprehenderit quam natus laborum laudantium repellendus corporis fugiat excepturi tempora, dicta impedit sapiente qui assumenda ullam tenetur! Vitae aspernatur possimus magnam aut voluptatum, fugiat perspiciatis eos magni ab corporis nulla alias illum tenetur facere corrupti fugit quam doloribus. Vel itaque impedit hic sapiente obcaecati quidem debitis labore facere delectus tenetur, similique perferendis sunt suscipit commodi aut rerum dolor a, animi quam, sed magni laudantium. Esse cum ad nemo aliquam quos? Dolore quibusdam ab quisquam quos nobis nisi. Alias, iste voluptas asperiores sunt dolorem rerum! Repudiandae, fuga non? </p>
+    </div>
+@endsection

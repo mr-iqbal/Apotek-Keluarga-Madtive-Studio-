@@ -1,0 +1,10 @@
+.hero-title {
+    /* color: springgreen !important; */
+}
+
+
+@media screen and (max-width:768) {
+    .popular {
+        
+    }
+}
